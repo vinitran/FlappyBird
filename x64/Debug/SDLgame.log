@@ -1,0 +1,3 @@
+﻿  Game.cpp
+C:\C++\visal game sdl\SDLgame\SDLgame\Game.cpp(160,17): warning C4553: '==': result of expression not used; did you intend '='?
+  SDLgame.vcxproj -> C:\C++\visal game sdl\SDLgame\x64\Debug\SDLgame.exe

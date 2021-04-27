@@ -1,0 +1,204 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header files">
+      <UniqueIdentifier>{8ed3465a-46cd-4f7b-8fb2-71095e5ba72f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="image">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="sound">
+      <UniqueIdentifier>{29077e7a-bd5c-4d06-9fce-2bcb31119c23}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Game.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="TextureManager.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="GameObject.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Map.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Bird.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="LoadSound.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="point.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Game.hpp">
+      <Filter>Header files</Filter>
+    </ClCompile>
+    <ClCompile Include="List_coordinates.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="PlaySound.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Collision.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Check_collision.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Bird.h">
+      <Filter>Header files</Filter>
+    </ClInclude>
+    <ClInclude Include="GameObject.h">
+      <Filter>Header files</Filter>
+    </ClInclude>
+    <ClInclude Include="LoadSound.h">
+      <Filter>Header files</Filter>
+    </ClInclude>
+    <ClInclude Include="point.h">
+      <Filter>Header files</Filter>
+    </ClInclude>
+    <ClInclude Include="TextureManager.h">
+      <Filter>Header files</Filter>
+    </ClInclude>
+    <ClInclude Include="Map.h">
+      <Filter>Header files</Filter>
+    </ClInclude>
+    <ClInclude Include="List_coordinates.h">
+      <Filter>Header files</Filter>
+    </ClInclude>
+    <ClInclude Include="PlaySound.h">
+      <Filter>Header files</Filter>
+    </ClInclude>
+    <ClInclude Include="Collision.h">
+      <Filter>Header files</Filter>
+    </ClInclude>
+    <ClInclude Include="Check_collision.h">
+      <Filter>Header files</Filter>
+    </ClInclude>
+    <ClInclude Include="Load_imagepoint.h">
+      <Filter>Header files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="0.png">
+      <Filter>image</Filter>
+    </Image>
+    <Image Include="1.png">
+      <Filter>image</Filter>
+    </Image>
+    <Image Include="2.png">
+      <Filter>image</Filter>
+    </Image>
+    <Image Include="3.png">
+      <Filter>image</Filter>
+    </Image>
+    <Image Include="4.png">
+      <Filter>image</Filter>
+    </Image>
+    <Image Include="5.png">
+      <Filter>image</Filter>
+    </Image>
+    <Image Include="6.png">
+      <Filter>image</Filter>
+    </Image>
+    <Image Include="7.png">
+      <Filter>image</Filter>
+    </Image>
+    <Image Include="8.png">
+      <Filter>image</Filter>
+    </Image>
+    <Image Include="9.png">
+      <Filter>image</Filter>
+    </Image>
+    <Image Include="background.png">
+      <Filter>image</Filter>
+    </Image>
+    <Image Include="base.png">
+      <Filter>image</Filter>
+    </Image>
+    <Image Include="bird_down_330.png">
+      <Filter>image</Filter>
+    </Image>
+    <Image Include="bird_mid_330.png">
+      <Filter>image</Filter>
+    </Image>
+    <Image Include="bird_mid_notfly_10.png">
+      <Filter>image</Filter>
+    </Image>
+    <Image Include="bird_mid_notfly_20.png">
+      <Filter>image</Filter>
+    </Image>
+    <Image Include="bird_mid_notfly_30.png">
+      <Filter>image</Filter>
+    </Image>
+    <Image Include="bird_mid_notfly_40.png">
+      <Filter>image</Filter>
+    </Image>
+    <Image Include="bird_mid_notfly_50.png">
+      <Filter>image</Filter>
+    </Image>
+    <Image Include="bird_mid_notfly_60.png">
+      <Filter>image</Filter>
+    </Image>
+    <Image Include="bird_mid_notfly_70.png">
+      <Filter>image</Filter>
+    </Image>
+    <Image Include="bird_mid_notfly_80.png">
+      <Filter>image</Filter>
+    </Image>
+    <Image Include="bird_mid_notfly_90.png">
+      <Filter>image</Filter>
+    </Image>
+    <Image Include="bird_mid_notfly_340.png">
+      <Filter>image</Filter>
+    </Image>
+    <Image Include="bird_mid_notfly_350.png">
+      <Filter>image</Filter>
+    </Image>
+    <Image Include="bird_mid_notfly_360.png">
+      <Filter>image</Filter>
+    </Image>
+    <Image Include="bird_up_330.png">
+      <Filter>image</Filter>
+    </Image>
+    <Image Include="pipe.png">
+      <Filter>image</Filter>
+    </Image>
+    <Image Include="start_game.png">
+      <Filter>image</Filter>
+    </Image>
+  </ItemGroup>
+  <ItemGroup>
+    <Media Include="click.wav">
+      <Filter>sound</Filter>
+    </Media>
+    <Media Include="die.wav">
+      <Filter>sound</Filter>
+    </Media>
+    <Media Include="hit.wav">
+      <Filter>sound</Filter>
+    </Media>
+    <Media Include="point.wav">
+      <Filter>sound</Filter>
+    </Media>
+    <Media Include="swoosh.wav">
+      <Filter>sound</Filter>
+    </Media>
+    <Media Include="wing.wav">
+      <Filter>sound</Filter>
+    </Media>
+  </ItemGroup>
+</Project>
