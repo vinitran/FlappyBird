@@ -14,7 +14,7 @@ Requirements:
 - Visual Studio or Code block
 
 Rule:
-- You must Click on the screen, or use your spacebar to get started. 
+- You must left click on mouse, or use your spacebar to get started. 
 Fly the bird as far as you can without hitting a pipe.
 
 Source code:
