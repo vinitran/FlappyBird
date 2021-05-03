@@ -1,6 +1,6 @@
 #Flappybird Copyright by Tran Thanh Vinh, Student id: 20020503.
 
-I apologize in advance; My code is quite convoluted.
+I apologize in advance, my code is quite convoluted.
 If and when things go wrong, Google is your best bet.
 Feel free to contact me at Vinitran124@gmail.com for any questions!
 
@@ -18,7 +18,7 @@ Rule:
 Fly the bird as far as you can without hitting a pipe.
 
 Source code:
-- i use the Simple DirectMedia Layer - SDL version 2.0.14.
+- I use the Simple DirectMedia Layer - SDL version 2.0.14.
 You can download these libraries from https://www.libsdl.org/download-2.0.php.
 Also i use the random, string and time.h library. 
 
