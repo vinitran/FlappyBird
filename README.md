@@ -1,4 +1,4 @@
-#Flappybird Copyright by Tran Thanh Vinh, Student ID: 20020503.
+#Flappybird Copyright by Tran Thanh Vinh, Student ID: 20020503 University of Engineering and Technology
 
 I apologize in advance, my code is quite convoluted.
 If and when things go wrong, Google is your best bet.
