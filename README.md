@@ -21,4 +21,3 @@ Source code:
 - I use the Simple DirectMedia Layer - SDL version 2.0.14.
 You can download these libraries from https://www.libsdl.org/download-2.0.php.
 Also i use the random, string and time.h library. 
-
