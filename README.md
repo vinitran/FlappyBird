@@ -9,6 +9,7 @@ Introduce Game:
 The objective was to direct a flying bird, named "Faby", who moves continuously to the right, between sets of Mario-like pipes. 
 If the player touches the pipes, they lose.
 - The original version of Flappy Bird was created by Ha Dong Nguyen and was removed from the app stores on 9.2.2014.
+
 Requirements:
 - Visual Studio or Code block
 
