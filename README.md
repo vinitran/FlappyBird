@@ -33,21 +33,21 @@ Role of each programs in Game:
 - Texture Manager: Use to load Texture
 - Bird:
   - Provide the path of Image Birds
-  - Load all images in Memory of computer  
-	- Save all data of Bird as: Coordinates of x and y Bird on screen; How to Waving wings;...	
+  - Load all images in Memory of computer 
+  - Save all data of Bird as: Coordinates of x and y Bird on screen; How to Waving wings;...	
 - Map: 
   - Provide the path of Image Backgrounds, Pipes and Bases
-	- Load all images in Memory of computer 
-	- Save all data of Map as: Position of all Mario-like pipes, Bases, Backgrounds
+  - Load all images in Memory of computer 
+  - Save all data of Map as: Position of all Mario-like pipes, Bases, Backgrounds
 - Point:
   - Provide the path of Image Point
-	- Load all images in Memory of computer
-	- Save all data of Point as: Player scores and High Score,...
+  - Load all images in Memory of computer
+  - Save all data of Point as: Player scores and High Score,...
 - Sound:
   - Provide the path of WAV file as: Sound Click, Sound Hit, Sound Swoosh, Sound Wing,Sound Point,...
-	- Load all WAV files in Memory of computer
+  - Load all WAV files in Memory of computer
 - List-Coordinates: Load file txt where contain data Coordinates of Photo border's Bird
 - Check_collision: It take data of Position all memberships in game and Check When Bird collisions with pipe and base
 - Main: 
   - Use to run all file and loop Game
-	- Save all data of memberships in game as: Position, Sound,...
+  - Save all data of memberships in game as: Position, Sound,...
